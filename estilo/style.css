@@ -65,7 +65,7 @@ header>p {
     font-family: var(--font-padrao);
     font-size: 1.2em;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 30px;
     /* Centralizando o parágrafo, como usei max-widht, transformou o parágrafo em um bloco */
     max-width: 600px;
     /* Largura máxima do parágrafo */
